@@ -1,0 +1,7 @@
+.venv/
+.idea/
+__pycache__/
+*.db
+pending_alerts.json*
+fallback_log.txt
+Client.py
